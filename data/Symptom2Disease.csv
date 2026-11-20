@@ -1,0 +1,529 @@
+Unnamed: 0,label,text
+0,Common Cold,I feel like I have slight fever with body ache and blocked nose and headache. I have never felt this before.
+1,Malaria,Lately I have headache and muscle pain with fever and nausea and vomiting with high temperature. It is getting worse every day.
+2,Psoriasis,I have been experiencing joint pain along with skin patches. It comes and goes.
+3,Urinary tract infection,I have been experiencing pain in my lower abdomen. It comes and goes.
+4,Chicken pox,For the past few days I have had fever along with itchy spots and rash that started on my chest and spread. It comes and goes.
+5,Arthritis,I am suffering from swelling in my knees and fingers and joint pain and stiffness in the morning. It comes and goes.
+6,Diabetes,Since yesterday I have had numbness in my hands and feet. I have never felt this before.
+7,Peptic ulcer disease,I noticed pain that worsens on empty stomach. It started suddenly.
+8,Migraine,I keep having nausea along with severe headache. I have never felt this before.
+9,Impetigo,I keep having skin sores that are spreading and honey colored crust on my skin.
+10,Psoriasis,I keep having thick patches of skin on my scalp. It is getting worse every day.
+11,Impetigo,I am suffering from small fluid filled blisters on my face and skin sores that are spreading. I am quite worried about it.
+12,Chicken pox,I am suffering from tiredness with red itchy bumps and rash that started on my chest and spread. It started suddenly.
+13,Pneumonia,I keep having coughing up greenish mucus. I have never felt this before.
+14,Pneumonia,For the past few days I have had high fever with persistent cough. It is getting worse every day.
+15,Jaundice,I have been experiencing yellowing of my skin and eyes and pale stools with abdominal pain. I am quite worried about it.
+16,Psoriasis,Recently I started having small scaling spots on my arms. It comes and goes.
+17,Common Cold,I feel like I have blocked nose and headache. It comes and goes.
+18,Urinary tract infection,I feel like I have frequent urge to urinate. I have never felt this before.
+19,Fungal infection,I keep having scaly itchy patches between my toes and red itchy patch on my groin. It started suddenly.
+20,Dengue,I keep having skin rash with high temperature. It started suddenly.
+21,Bronchial Asthma,I feel like I have wheezing and shortness of breath. I am quite worried about it.
+22,Acne,I keep having clogged pores on my forehead and red inflamed bumps on my chin. It is getting worse every day.
+23,Allergy,I have been experiencing itchy throat and runny nose.
+24,Pneumonia,Since yesterday I have had fatigue with rapid breathing. This has been bothering me a lot.
+25,Chicken pox,Since yesterday I have had itchy red blisters all over my body. It started suddenly.
+26,Allergy,I have been experiencing swelling of lips after eating and hives appearing on my skin. It comes and goes.
+27,Impetigo,I am suffering from itchy blisters that burst and ooze and small fluid filled blisters on my face. This has been bothering me a lot.
+28,Hypertension,Recently I started having frequent headaches and dizziness and blurred vision and fatigue. It comes and goes.
+29,Arthritis,I noticed joint pain and stiffness in the morning and stiffness that improves with movement. I have never felt this before.
+30,Chicken pox,Recently I started having tiredness with red itchy bumps and small blisters that are crusting over.
+31,Typhoid,Lately I have severe stomach pain and weakness. It comes and goes.
+32,Chicken pox,I am suffering from fluid filled blisters on my skin. It comes and goes.
+33,Urinary tract infection,I noticed frequent urge to urinate. I have never felt this before.
+34,Varicose Veins,I noticed aching heavy feeling in my legs and veins bulging on my legs.
+35,Jaundice,For the past few days I have had pale stools with abdominal pain.
+36,Allergy,I am suffering from itchy throat and runny nose. I have never felt this before.
+37,Malaria,I noticed nausea and vomiting with high temperature and fever that comes and goes in cycles. It comes and goes.
+38,Psoriasis,I've been dealing with small scaling spots on my arms and dry cracked skin that sometimes bleeds.
+39,Hypertension,Recently I started having feeling lightheaded often. I have never felt this before.
+40,Chicken pox,I keep having itchy red blisters all over my body and small blisters that are crusting over.
+41,Cervical spondylosis,For the past few days I have had headache starting from my neck.
+42,Bronchial Asthma,Since yesterday I have had tightness in my chest and difficulty breathing during exercise. I have never felt this before.
+43,Cervical spondylosis,I've been dealing with numbness in my fingers. It comes and goes.
+44,Dimorphic Hemorrhoids,For the past few days I have had lump near my anus that hurts and discomfort while sitting for long. I have never felt this before.
+45,Diabetes,I keep having frequent infections and dry skin. This has been bothering me a lot.
+46,Chicken pox,Recently I started having small blisters that are crusting over and itchy red blisters all over my body. I am quite worried about it.
+47,Arthritis,I feel like I have swelling in my knees and fingers.
+48,Dengue,I have been experiencing muscle and joint pain with fatigue and skin rash with high temperature. This has been bothering me a lot.
+49,Chicken pox,I noticed itchy red blisters all over my body. I have never felt this before.
+50,Chicken pox,Recently I started having fever along with itchy spots and fluid filled blisters on my skin. It is getting worse every day.
+51,Bronchial Asthma,I feel like I have wheezing and shortness of breath and tightness in my chest. It started suddenly.
+52,Migraine,I keep having throbbing headache on one side. I have never felt this before.
+53,Drug Reaction,I feel like I have swelling of face after taking a drug. It started suddenly.
+54,Peptic ulcer disease,For the past few days I have had dark stools with stomach pain. It comes and goes.
+55,Drug Reaction,I've been dealing with breathing difficulty after a new tablet and fever along with rash after medication.
+56,Diabetes,Since yesterday I have had excessive thirst and frequent urination and blurred vision and slow healing wounds. It comes and goes.
+57,Hypertension,Recently I started having frequent headaches and dizziness and shortness of breath with chest discomfort. This has been bothering me a lot.
+58,Drug Reaction,For the past few days I have had hives soon after taking medicine.
+59,Jaundice,I have been experiencing loss of appetite and yellow eyes and pale stools with abdominal pain. This has been bothering me a lot.
+60,Gastroesophageal reflux disease,I feel like I have sour taste in my mouth and chest discomfort that worsens when lying down. It started suddenly.
+61,Malaria,I have been experiencing fatigue along with shivering and high fever with chills and sweating. I have never felt this before.
+62,Common Cold,Lately I have blocked nose and headache. It started suddenly.
+63,Diabetes,I keep having excessive thirst and frequent urination and numbness in my hands and feet. This has been bothering me a lot.
+64,Diabetes,Lately I have numbness in my hands and feet. This has been bothering me a lot.
+65,Fungal infection,For the past few days I have had itchy red rash on my skin folds and peeling skin between my fingers.
+66,Fungal infection,I've been dealing with peeling skin between my fingers and scaly itchy patches between my toes.
+67,Peptic ulcer disease,Since yesterday I have had indigestion and frequent burping and bloating after eating meals. This has been bothering me a lot.
+68,Bronchial Asthma,For the past few days I have had coughing especially at night. This has been bothering me a lot.
+69,Typhoid,For the past few days I have had fever along with constipation. It is getting worse every day.
+70,Gastroesophageal reflux disease,Recently I started having chest discomfort that worsens when lying down and difficulty swallowing food. It started suddenly.
+71,Impetigo,I am suffering from small fluid filled blisters on my face. This has been bothering me a lot.
+72,Chicken pox,I noticed tiredness with red itchy bumps and fever along with itchy spots. I have never felt this before.
+73,Pneumonia,I noticed fever and chest congestion and coughing up greenish mucus. It is getting worse every day.
+74,Varicose Veins,For the past few days I have had swelling in my lower legs by evening. I have never felt this before.
+75,Chicken pox,I have been experiencing small blisters that are crusting over. It comes and goes.
+76,Cervical spondylosis,I've been dealing with numbness in my fingers. I am quite worried about it.
+77,Psoriasis,Lately I have joint pain along with skin patches. It started suddenly.
+78,Psoriasis,Recently I started having joint pain along with skin patches and small scaling spots on my arms. I have never felt this before.
+79,Peptic ulcer disease,I've been dealing with pain that worsens on empty stomach and dark stools with stomach pain. It comes and goes.
+80,Varicose Veins,I keep having throbbing pain in my calves after standing. I am quite worried about it.
+81,Dengue,I keep having bleeding gums along with high fever. It started suddenly.
+82,Hypertension,Since yesterday I have had feeling lightheaded often. It started suddenly.
+83,Migraine,I noticed sensitivity to light and sound and nausea along with severe headache. I am quite worried about it.
+84,Diabetes,For the past few days I have had increased hunger with tiredness and unexplained weight loss and fatigue.
+85,Acne,I have been experiencing blackheads and whiteheads on my skin and red inflamed bumps on my chin.
+86,Hypertension,Recently I started having shortness of breath with chest discomfort. It comes and goes.
+87,Psoriasis,Since yesterday I have had joint pain along with skin patches and small scaling spots on my arms. This has been bothering me a lot.
+88,Pneumonia,I keep having coughing up greenish mucus. It started suddenly.
+89,Fungal infection,I am suffering from red itchy patch on my groin. It is getting worse every day.
+90,Psoriasis,I keep having itchy silvery scales on elbows and knees and dry cracked skin that sometimes bleeds. I have never felt this before.
+91,Arthritis,I noticed reduced range of motion in joints and joint pain and stiffness in the morning.
+92,Varicose Veins,I am suffering from itching and burning around my veins. It started suddenly.
+93,Drug Reaction,Lately I have swelling of face after taking a drug and itching all over my body after medication. It comes and goes.
+94,Typhoid,I noticed severe stomach pain and weakness and fever along with constipation. I am quite worried about it.
+95,Impetigo,I have been experiencing itchy blisters that burst and ooze. I am quite worried about it.
+96,Migraine,For the past few days I have had headache that worsens with activity. It is getting worse every day.
+97,Jaundice,Since yesterday I have had pale stools with abdominal pain. This has been bothering me a lot.
+98,Gastroesophageal reflux disease,Since yesterday I have had sour taste in my mouth and frequent heartburn at night.
+99,Malaria,I have been experiencing fatigue along with shivering. I have never felt this before.
+100,Gastroesophageal reflux disease,I feel like I have frequent heartburn at night and difficulty swallowing food. This has been bothering me a lot.
+101,Diabetes,Lately I have numbness in my hands and feet.
+102,Acne,Since yesterday I have had pimples on my face and back and red inflamed bumps on my chin.
+103,Pneumonia,For the past few days I have had fatigue with rapid breathing and fever and chest congestion. It started suddenly.
+104,Migraine,I noticed pulsing pain behind my eyes and throbbing headache on one side. I have never felt this before.
+105,Acne,Lately I have scarring from old pimples. This has been bothering me a lot.
+106,Diabetes,I keep having blurred vision and slow healing wounds. It started suddenly.
+107,Common Cold,Since yesterday I have had blocked nose and headache and sore throat with mild cough.
+108,Jaundice,Lately I have dark colored urine and fatigue and yellowing of my skin and eyes. I have never felt this before.
+109,Chicken pox,I feel like I have itchy red blisters all over my body. This has been bothering me a lot.
+110,Jaundice,I have been experiencing pale stools with abdominal pain and weakness along with yellowish skin.
+111,Migraine,Since yesterday I have had sensitivity to light and sound. It comes and goes.
+112,Pneumonia,I am suffering from shortness of breath and chills. It is getting worse every day.
+113,Cervical spondylosis,I've been dealing with grinding sensation when moving neck. It is getting worse every day.
+114,Allergy,Recently I started having sneezing with itchy watery eyes.
+115,Jaundice,Since yesterday I have had yellowing of my skin and eyes and weakness along with yellowish skin.
+116,Pneumonia,Since yesterday I have had coughing up greenish mucus. It is getting worse every day.
+117,Cervical spondylosis,For the past few days I have had tingling sensation in my arms. I am quite worried about it.
+118,Allergy,Since yesterday I have had sneezing with itchy watery eyes and swelling of lips after eating.
+119,Common Cold,Recently I started having runny nose and sneezing. This has been bothering me a lot.
+120,Urinary tract infection,I am suffering from pelvic discomfort and pressure and burning sensation while urinating.
+121,Peptic ulcer disease,I am suffering from burning pain in my upper stomach. It comes and goes.
+122,Fungal infection,I feel like I have red itchy patch on my groin and itchy rash with a clear center. It started suddenly.
+123,Jaundice,I am suffering from dark colored urine and fatigue and yellowing of my skin and eyes. I have never felt this before.
+124,Chicken pox,For the past few days I have had itchy red blisters all over my body and fever along with itchy spots. I have never felt this before.
+125,Fungal infection,I've been dealing with itchy red rash on my skin folds. It started suddenly.
+126,Jaundice,I've been dealing with pale stools with abdominal pain. This has been bothering me a lot.
+127,Cervical spondylosis,I feel like I have headache starting from my neck. It comes and goes.
+128,Gastroesophageal reflux disease,I am suffering from chest discomfort that worsens when lying down. This has been bothering me a lot.
+129,Bronchial Asthma,Lately I have wheezing and shortness of breath and coughing especially at night. I am quite worried about it.
+130,Cervical spondylosis,Recently I started having headache starting from my neck and grinding sensation when moving neck. I am quite worried about it.
+131,Urinary tract infection,Recently I started having pelvic discomfort and pressure. I am quite worried about it.
+132,Psoriasis,I've been dealing with itchy silvery scales on elbows and knees.
+133,Jaundice,I am suffering from pale stools with abdominal pain and yellowing of my skin and eyes. It comes and goes.
+134,Typhoid,I keep having severe stomach pain and weakness and loss of appetite and fatigue.
+135,Dimorphic Hemorrhoids,Lately I have discomfort while sitting for long. It started suddenly.
+136,Peptic ulcer disease,Recently I started having dark stools with stomach pain. This has been bothering me a lot.
+137,Jaundice,I keep having itchy skin with yellow tint. It is getting worse every day.
+138,Gastroesophageal reflux disease,Recently I started having difficulty swallowing food. I have never felt this before.
+139,Hypertension,Lately I have nosebleeds and pounding in my chest. It comes and goes.
+140,Varicose Veins,Recently I started having swollen twisted veins on my legs and itching and burning around my veins. It is getting worse every day.
+141,Gastroesophageal reflux disease,I keep having frequent heartburn at night. I have never felt this before.
+142,Varicose Veins,I've been dealing with swelling in my lower legs by evening. This has been bothering me a lot.
+143,Migraine,I feel like I have visual disturbances before headache and pulsing pain behind my eyes.
+144,Arthritis,I feel like I have swelling in my knees and fingers. I am quite worried about it.
+145,Arthritis,Since yesterday I have had joint pain and stiffness in the morning and stiffness that improves with movement.
+146,Diabetes,I am suffering from unexplained weight loss and fatigue and numbness in my hands and feet. This has been bothering me a lot.
+147,Dengue,I keep having skin rash with high temperature. It comes and goes.
+148,Cervical spondylosis,I keep having difficulty turning my neck and numbness in my fingers. It comes and goes.
+149,Varicose Veins,I noticed swelling in my lower legs by evening. It is getting worse every day.
+150,Dengue,Lately I have pain behind my eyes and headache and muscle and joint pain with fatigue. I have never felt this before.
+151,Drug Reaction,For the past few days I have had fever along with rash after medication and swelling of face after taking a drug. I am quite worried about it.
+152,Arthritis,I keep having swelling in my knees and fingers and joints feel warm and tender.
+153,Malaria,I've been dealing with high fever with chills and sweating. I have never felt this before.
+154,Typhoid,For the past few days I have had high fever that won't go down and loss of appetite and fatigue. It started suddenly.
+155,Dimorphic Hemorrhoids,Lately I have blood on toilet paper after stool and lump near my anus that hurts. It comes and goes.
+156,Varicose Veins,I feel like I have throbbing pain in my calves after standing and aching heavy feeling in my legs. I am quite worried about it.
+157,Psoriasis,Recently I started having itchy silvery scales on elbows and knees.
+158,Allergy,For the past few days I have had hives appearing on my skin. It comes and goes.
+159,Chicken pox,Since yesterday I have had fluid filled blisters on my skin and fever along with itchy spots. I have never felt this before.
+160,Diabetes,I am suffering from numbness in my hands and feet and frequent infections and dry skin. I have never felt this before.
+161,Arthritis,For the past few days I have had pain in multiple joints.
+162,Urinary tract infection,For the past few days I have had pelvic discomfort and pressure and blood in my urine. It is getting worse every day.
+163,Impetigo,I feel like I have red sores around my nose and mouth and small fluid filled blisters on my face. It comes and goes.
+164,Common Cold,Lately I have runny nose and sneezing. It comes and goes.
+165,Hypertension,I feel like I have nosebleeds and pounding in my chest and shortness of breath with chest discomfort. This has been bothering me a lot.
+166,Varicose Veins,I am suffering from itching and burning around my veins and swelling in my lower legs by evening. It comes and goes.
+167,Bronchial Asthma,I noticed coughing especially at night and wheezing and shortness of breath. This has been bothering me a lot.
+168,Peptic ulcer disease,Recently I started having indigestion and frequent burping and pain that worsens on empty stomach. This has been bothering me a lot.
+169,Arthritis,I noticed joint pain and stiffness in the morning.
+170,Psoriasis,Recently I started having itchy silvery scales on elbows and knees and thick patches of skin on my scalp. It started suddenly.
+171,Dengue,Recently I started having bleeding gums along with high fever and pain behind my eyes and headache. It started suddenly.
+172,Typhoid,I've been dealing with fever along with constipation. This has been bothering me a lot.
+173,Dimorphic Hemorrhoids,Lately I have pain and bleeding during bowel movements.
+174,Peptic ulcer disease,For the past few days I have had indigestion and frequent burping and pain that worsens on empty stomach. It is getting worse every day.
+175,Psoriasis,I am suffering from joint pain along with skin patches and red scaly patches on my skin. I am quite worried about it.
+176,Peptic ulcer disease,I have been experiencing nausea with stomach discomfort and burning pain in my upper stomach.
+177,Malaria,Since yesterday I have had fever that comes and goes in cycles. It started suddenly.
+178,Psoriasis,I have been experiencing red scaly patches on my skin. This has been bothering me a lot.
+179,Acne,I am suffering from pimples on my face and back and scarring from old pimples. I have never felt this before.
+180,Dimorphic Hemorrhoids,Since yesterday I have had lump near my anus that hurts and swelling near my rectum.
+181,Typhoid,I have been experiencing weakness and rose colored spots on chest. I have never felt this before.
+182,Dengue,Since yesterday I have had muscle and joint pain with fatigue and pain behind my eyes and headache. I am quite worried about it.
+183,Drug Reaction,I am suffering from skin rash after starting new medicine. It comes and goes.
+184,Bronchial Asthma,I keep having difficulty breathing during exercise and wheezing and shortness of breath. I have never felt this before.
+185,Varicose Veins,Lately I have itching and burning around my veins and throbbing pain in my calves after standing. It is getting worse every day.
+186,Dimorphic Hemorrhoids,I noticed lump near my anus that hurts and blood on toilet paper after stool.
+187,Malaria,For the past few days I have had high fever with chills and sweating and headache and muscle pain with fever. It is getting worse every day.
+188,Varicose Veins,For the past few days I have had itching and burning around my veins. It comes and goes.
+189,Psoriasis,I've been dealing with itchy silvery scales on elbows and knees and joint pain along with skin patches. I have never felt this before.
+190,Pneumonia,I am suffering from fever and chest congestion and fatigue with rapid breathing. This has been bothering me a lot.
+191,Drug Reaction,I've been dealing with itching all over my body after medication. I am quite worried about it.
+192,Impetigo,I have been experiencing skin sores that are spreading. It is getting worse every day.
+193,Varicose Veins,Lately I have aching heavy feeling in my legs.
+194,Common Cold,I am suffering from cough with mild fatigue and sore throat with mild cough. It started suddenly.
+195,Peptic ulcer disease,Lately I have dark stools with stomach pain. I have never felt this before.
+196,Dengue,I am suffering from skin rash with high temperature and bleeding gums along with high fever. It is getting worse every day.
+197,Dengue,I keep having nausea and vomiting with fever and muscle and joint pain with fatigue. I am quite worried about it.
+198,Bronchial Asthma,I noticed difficulty breathing during exercise and whistling sound while breathing. It started suddenly.
+199,Common Cold,I noticed blocked nose and headache. It is getting worse every day.
+200,Dimorphic Hemorrhoids,I've been dealing with discomfort while sitting for long and swelling near my rectum. This has been bothering me a lot.
+201,Jaundice,Recently I started having weakness along with yellowish skin and dark colored urine and fatigue.
+202,Fungal infection,I've been dealing with itchy rash with a clear center and scaly itchy patches between my toes. It is getting worse every day.
+203,Pneumonia,I've been dealing with fever and chest congestion and coughing up greenish mucus. It started suddenly.
+204,Malaria,I noticed headache and muscle pain with fever and fever that comes and goes in cycles. It started suddenly.
+205,Urinary tract infection,For the past few days I have had frequent urge to urinate. It comes and goes.
+206,Arthritis,I noticed joint pain and stiffness in the morning. I have never felt this before.
+207,Drug Reaction,I noticed fever along with rash after medication and itching all over my body after medication.
+208,Gastroesophageal reflux disease,Recently I started having frequent heartburn at night and burning sensation in my chest after eating. It comes and goes.
+209,Diabetes,Since yesterday I have had unexplained weight loss and fatigue and numbness in my hands and feet. This has been bothering me a lot.
+210,Fungal infection,I noticed red itchy patch on my groin and ring shaped rash that is spreading. It is getting worse every day.
+211,Gastroesophageal reflux disease,For the past few days I have had burning sensation in my chest after eating. It is getting worse every day.
+212,Chicken pox,I am suffering from rash that started on my chest and spread and fever along with itchy spots. It started suddenly.
+213,Bronchial Asthma,For the past few days I have had wheezing and shortness of breath and breathlessness triggered by dust. It is getting worse every day.
+214,Common Cold,I keep having slight fever with body ache and congestion and watery eyes. I am quite worried about it.
+215,Pneumonia,Since yesterday I have had fatigue with rapid breathing and shortness of breath and chills.
+216,Acne,I noticed red inflamed bumps on my chin. I have never felt this before.
+217,Urinary tract infection,I've been dealing with pain in my lower abdomen and pelvic discomfort and pressure. I am quite worried about it.
+218,Drug Reaction,Recently I started having itching all over my body after medication. It comes and goes.
+219,Pneumonia,Since yesterday I have had shortness of breath and chills and chest pain when breathing deeply. I am quite worried about it.
+220,Chicken pox,For the past few days I have had fluid filled blisters on my skin. I am quite worried about it.
+221,Impetigo,I keep having small fluid filled blisters on my face and red rash with yellowish crust. This has been bothering me a lot.
+222,Bronchial Asthma,Recently I started having breathlessness triggered by dust. It is getting worse every day.
+223,Fungal infection,Recently I started having itchy red rash on my skin folds and red itchy patch on my groin.
+224,Impetigo,I've been dealing with small fluid filled blisters on my face and red rash with yellowish crust. I have never felt this before.
+225,Fungal infection,For the past few days I have had ring shaped rash that is spreading and scaly itchy patches between my toes. It started suddenly.
+226,Acne,I feel like I have clogged pores on my forehead. It is getting worse every day.
+227,Gastroesophageal reflux disease,I keep having frequent heartburn at night and sour taste in my mouth.
+228,Urinary tract infection,I noticed blood in my urine. I am quite worried about it.
+229,Urinary tract infection,I am suffering from cloudy or strong smelling urine and pain in my lower abdomen. It is getting worse every day.
+230,Chicken pox,I've been dealing with fluid filled blisters on my skin. This has been bothering me a lot.
+231,Impetigo,I noticed honey colored crust on my skin and skin sores that are spreading. I have never felt this before.
+232,Common Cold,Recently I started having congestion and watery eyes.
+233,Common Cold,I noticed runny nose and sneezing and sore throat with mild cough. It started suddenly.
+234,Dimorphic Hemorrhoids,I feel like I have blood on toilet paper after stool and discomfort while sitting for long.
+235,Hypertension,I noticed frequent headaches and dizziness and high readings when I check my blood pressure.
+236,Chicken pox,I noticed itchy red blisters all over my body. I am quite worried about it.
+237,Peptic ulcer disease,I have been experiencing indigestion and frequent burping. It is getting worse every day.
+238,Cervical spondylosis,For the past few days I have had numbness in my fingers. I am quite worried about it.
+239,Peptic ulcer disease,I have been experiencing nausea with stomach discomfort.
+240,Dengue,For the past few days I have had pain behind my eyes and headache. It comes and goes.
+241,Hypertension,Lately I have high readings when I check my blood pressure and feeling lightheaded often.
+242,Migraine,I noticed headache that worsens with activity. It is getting worse every day.
+243,Allergy,I feel like I have itchy throat and runny nose. It started suddenly.
+244,Malaria,Since yesterday I have had body aches with intense cold chills and nausea and vomiting with high temperature. It comes and goes.
+245,Allergy,I keep having swelling of lips after eating and sneezing with itchy watery eyes. It is getting worse every day.
+246,Malaria,I feel like I have body aches with intense cold chills.
+247,Bronchial Asthma,Recently I started having difficulty breathing during exercise and wheezing and shortness of breath.
+248,Diabetes,I noticed blurred vision and slow healing wounds. It is getting worse every day.
+249,Peptic ulcer disease,Lately I have indigestion and frequent burping. It comes and goes.
+250,Urinary tract infection,I am suffering from pelvic discomfort and pressure and cloudy or strong smelling urine. It is getting worse every day.
+251,Urinary tract infection,For the past few days I have had pain in my lower abdomen.
+252,Acne,For the past few days I have had pimples on my face and back. It started suddenly.
+253,Hypertension,I feel like I have frequent headaches and dizziness and blurred vision and fatigue.
+254,Varicose Veins,I feel like I have swollen twisted veins on my legs.
+255,Pneumonia,I've been dealing with shortness of breath and chills and chest pain when breathing deeply. It comes and goes.
+256,Fungal infection,I've been dealing with peeling skin between my fingers. It is getting worse every day.
+257,Acne,I've been dealing with scarring from old pimples and blackheads and whiteheads on my skin. It comes and goes.
+258,Hypertension,I noticed blurred vision and fatigue. It started suddenly.
+259,Typhoid,For the past few days I have had headache with sustained high temperature. This has been bothering me a lot.
+260,Dengue,I have been experiencing muscle and joint pain with fatigue. This has been bothering me a lot.
+261,Cervical spondylosis,Lately I have neck pain and stiffness and numbness in my fingers.
+262,Bronchial Asthma,I keep having difficulty breathing during exercise and wheezing and shortness of breath.
+263,Acne,I am suffering from blackheads and whiteheads on my skin and scarring from old pimples.
+264,Malaria,I've been dealing with fatigue along with shivering and high fever with chills and sweating. It is getting worse every day.
+265,Fungal infection,I keep having red itchy patch on my groin. It comes and goes.
+266,Urinary tract infection,Recently I started having burning sensation while urinating. I am quite worried about it.
+267,Varicose Veins,Recently I started having throbbing pain in my calves after standing. It comes and goes.
+268,Cervical spondylosis,I've been dealing with grinding sensation when moving neck and difficulty turning my neck. I am quite worried about it.
+269,Dimorphic Hemorrhoids,Since yesterday I have had itching around my anus. I have never felt this before.
+270,Drug Reaction,I noticed skin rash after starting new medicine. I have never felt this before.
+271,Fungal infection,Lately I have scaly itchy patches between my toes and red itchy patch on my groin. I am quite worried about it.
+272,Allergy,I keep having skin rash after eating certain food and itchy throat and runny nose. I am quite worried about it.
+273,Fungal infection,Since yesterday I have had itchy rash with a clear center. It started suddenly.
+274,Allergy,I feel like I have skin rash after eating certain food. It is getting worse every day.
+275,Allergy,Lately I have hives appearing on my skin and swelling of lips after eating. It started suddenly.
+276,Dengue,I feel like I have nausea and vomiting with fever. It comes and goes.
+277,Malaria,I keep having fever that comes and goes in cycles and high fever with chills and sweating. It started suddenly.
+278,Impetigo,Since yesterday I have had itchy blisters that burst and ooze.
+279,Fungal infection,I feel like I have peeling skin between my fingers.
+280,Arthritis,For the past few days I have had reduced range of motion in joints. I have never felt this before.
+281,Hypertension,I've been dealing with frequent headaches and dizziness and blurred vision and fatigue. I am quite worried about it.
+282,Impetigo,Since yesterday I have had red rash with yellowish crust. This has been bothering me a lot.
+283,Allergy,I've been dealing with swelling of lips after eating. It is getting worse every day.
+284,Jaundice,I have been experiencing yellowing of my skin and eyes. I have never felt this before.
+285,Dengue,I have been experiencing muscle and joint pain with fatigue. It comes and goes.
+286,Pneumonia,For the past few days I have had high fever with persistent cough and chest pain when breathing deeply.
+287,Dimorphic Hemorrhoids,For the past few days I have had lump near my anus that hurts and pain and bleeding during bowel movements. It comes and goes.
+288,Acne,I noticed clogged pores on my forehead and oily skin with frequent breakouts. It is getting worse every day.
+289,Migraine,I keep having nausea along with severe headache.
+290,Drug Reaction,For the past few days I have had skin rash after starting new medicine and fever along with rash after medication. It started suddenly.
+291,Malaria,I noticed fever that comes and goes in cycles and nausea and vomiting with high temperature. It started suddenly.
+292,Migraine,I feel like I have headache that worsens with activity and nausea along with severe headache. I am quite worried about it.
+293,Allergy,I noticed skin rash after eating certain food and congestion triggered by pollen. It is getting worse every day.
+294,Urinary tract infection,For the past few days I have had pelvic discomfort and pressure and burning sensation while urinating.
+295,Dengue,Since yesterday I have had nausea and vomiting with fever and bleeding gums along with high fever. This has been bothering me a lot.
+296,Migraine,Recently I started having nausea along with severe headache.
+297,Arthritis,I have been experiencing reduced range of motion in joints and pain in multiple joints. It comes and goes.
+298,Peptic ulcer disease,I keep having pain that worsens on empty stomach. I have never felt this before.
+299,Dimorphic Hemorrhoids,I've been dealing with lump near my anus that hurts and pain and bleeding during bowel movements. It is getting worse every day.
+300,Dengue,I feel like I have muscle and joint pain with fatigue.
+301,Gastroesophageal reflux disease,I am suffering from regurgitation of food after meals. I have never felt this before.
+302,Hypertension,Lately I have high readings when I check my blood pressure and frequent headaches and dizziness. It comes and goes.
+303,Cervical spondylosis,I noticed grinding sensation when moving neck.
+304,Urinary tract infection,Since yesterday I have had pelvic discomfort and pressure and pain in my lower abdomen. It comes and goes.
+305,Hypertension,I feel like I have high readings when I check my blood pressure and nosebleeds and pounding in my chest. It started suddenly.
+306,Urinary tract infection,I've been dealing with burning sensation while urinating. This has been bothering me a lot.
+307,Migraine,I feel like I have pulsing pain behind my eyes and throbbing headache on one side. It comes and goes.
+308,Hypertension,For the past few days I have had high readings when I check my blood pressure. It is getting worse every day.
+309,Malaria,Recently I started having nausea and vomiting with high temperature and fatigue along with shivering. It started suddenly.
+310,Jaundice,I noticed yellowing of my skin and eyes. This has been bothering me a lot.
+311,Dengue,For the past few days I have had high fever with severe joint pain and nausea and vomiting with fever. This has been bothering me a lot.
+312,Pneumonia,I feel like I have shortness of breath and chills and chest pain when breathing deeply. This has been bothering me a lot.
+313,Gastroesophageal reflux disease,For the past few days I have had difficulty swallowing food and frequent heartburn at night. I have never felt this before.
+314,Jaundice,For the past few days I have had yellowing of my skin and eyes and pale stools with abdominal pain. This has been bothering me a lot.
+315,Jaundice,For the past few days I have had itchy skin with yellow tint and yellowing of my skin and eyes. I have never felt this before.
+316,Migraine,I've been dealing with headache that worsens with activity and sensitivity to light and sound. This has been bothering me a lot.
+317,Fungal infection,I've been dealing with red itchy patch on my groin. I have never felt this before.
+318,Malaria,For the past few days I have had fatigue along with shivering and nausea and vomiting with high temperature.
+319,Arthritis,I feel like I have pain in multiple joints and reduced range of motion in joints.
+320,Drug Reaction,For the past few days I have had swelling of face after taking a drug and itching all over my body after medication.
+321,Cervical spondylosis,I've been dealing with headache starting from my neck. It is getting worse every day.
+322,Common Cold,I am suffering from sore throat with mild cough and congestion and watery eyes.
+323,Migraine,For the past few days I have had visual disturbances before headache and pulsing pain behind my eyes.
+324,Fungal infection,I am suffering from peeling skin between my fingers. I am quite worried about it.
+325,Pneumonia,Recently I started having fever and chest congestion.
+326,Acne,I keep having clogged pores on my forehead. This has been bothering me a lot.
+327,Arthritis,Lately I have joints feel warm and tender. I have never felt this before.
+328,Dengue,I keep having skin rash with high temperature and pain behind my eyes and headache. It started suddenly.
+329,Dengue,For the past few days I have had high fever with severe joint pain. It comes and goes.
+330,Jaundice,I keep having dark colored urine and fatigue. It is getting worse every day.
+331,Arthritis,For the past few days I have had stiffness that improves with movement. It comes and goes.
+332,Allergy,I feel like I have itchy throat and runny nose and hives appearing on my skin.
+333,Diabetes,Recently I started having frequent infections and dry skin and increased hunger with tiredness. It comes and goes.
+334,Dengue,I keep having muscle and joint pain with fatigue. I have never felt this before.
+335,Diabetes,I keep having numbness in my hands and feet. It comes and goes.
+336,Bronchial Asthma,For the past few days I have had tightness in my chest and wheezing and shortness of breath. I have never felt this before.
+337,Allergy,For the past few days I have had swelling of lips after eating and hives appearing on my skin.
+338,Impetigo,I am suffering from honey colored crust on my skin.
+339,Malaria,I keep having high fever with chills and sweating. I am quite worried about it.
+340,Cervical spondylosis,I am suffering from grinding sensation when moving neck and numbness in my fingers.
+341,Fungal infection,Since yesterday I have had itchy red rash on my skin folds and red itchy patch on my groin.
+342,Gastroesophageal reflux disease,Since yesterday I have had regurgitation of food after meals. This has been bothering me a lot.
+343,Typhoid,I have been experiencing high fever that won't go down.
+344,Peptic ulcer disease,I keep having indigestion and frequent burping.
+345,Typhoid,I feel like I have fever along with constipation. It is getting worse every day.
+346,Bronchial Asthma,Lately I have coughing especially at night and difficulty breathing during exercise.
+347,Chicken pox,I feel like I have fever along with itchy spots. I am quite worried about it.
+348,Acne,For the past few days I have had red inflamed bumps on my chin and oily skin with frequent breakouts. I have never felt this before.
+349,Pneumonia,Since yesterday I have had fatigue with rapid breathing and fever and chest congestion.
+350,Allergy,For the past few days I have had hives appearing on my skin and congestion triggered by pollen. It is getting worse every day.
+351,Common Cold,Since yesterday I have had congestion and watery eyes and slight fever with body ache. It started suddenly.
+352,Psoriasis,I feel like I have joint pain along with skin patches. It is getting worse every day.
+353,Varicose Veins,I noticed swollen twisted veins on my legs. This has been bothering me a lot.
+354,Varicose Veins,I feel like I have swelling in my lower legs by evening and throbbing pain in my calves after standing.
+355,Common Cold,Since yesterday I have had runny nose and sneezing and blocked nose and headache.
+356,Fungal infection,I feel like I have itchy red rash on my skin folds. It started suddenly.
+357,Allergy,I am suffering from swelling of lips after eating.
+358,Drug Reaction,Recently I started having fever along with rash after medication and skin rash after starting new medicine. It started suddenly.
+359,Arthritis,Lately I have joints feel warm and tender. I am quite worried about it.
+360,Impetigo,I've been dealing with skin sores that are spreading and red rash with yellowish crust. It is getting worse every day.
+361,Typhoid,Lately I have severe stomach pain and weakness. This has been bothering me a lot.
+362,Arthritis,Since yesterday I have had swelling in my knees and fingers. I am quite worried about it.
+363,Urinary tract infection,I've been dealing with blood in my urine and burning sensation while urinating. It started suddenly.
+364,Cervical spondylosis,I noticed tingling sensation in my arms. It started suddenly.
+365,Urinary tract infection,Lately I have pain in my lower abdomen and pelvic discomfort and pressure. I have never felt this before.
+366,Pneumonia,For the past few days I have had coughing up greenish mucus.
+367,Varicose Veins,Lately I have aching heavy feeling in my legs. It is getting worse every day.
+368,Drug Reaction,I keep having swelling of face after taking a drug. I have never felt this before.
+369,Diabetes,I keep having unexplained weight loss and fatigue.
+370,Dimorphic Hemorrhoids,I am suffering from lump near my anus that hurts and itching around my anus. It comes and goes.
+371,Bronchial Asthma,Recently I started having whistling sound while breathing. I have never felt this before.
+372,Jaundice,For the past few days I have had itchy skin with yellow tint and loss of appetite and yellow eyes.
+373,Acne,Lately I have scarring from old pimples and red inflamed bumps on my chin. It started suddenly.
+374,Allergy,For the past few days I have had itchy throat and runny nose. I have never felt this before.
+375,Psoriasis,I am suffering from small scaling spots on my arms. This has been bothering me a lot.
+376,Acne,I am suffering from pimples on my face and back and oily skin with frequent breakouts. I have never felt this before.
+377,Drug Reaction,I noticed itching all over my body after medication and hives soon after taking medicine. It started suddenly.
+378,Impetigo,I've been dealing with small fluid filled blisters on my face and itchy blisters that burst and ooze. I am quite worried about it.
+379,Arthritis,Lately I have stiffness that improves with movement and swelling in my knees and fingers.
+380,Diabetes,I am suffering from blurred vision and slow healing wounds. I am quite worried about it.
+381,Dimorphic Hemorrhoids,I've been dealing with blood on toilet paper after stool and discomfort while sitting for long. It comes and goes.
+382,Gastroesophageal reflux disease,Since yesterday I have had chest discomfort that worsens when lying down and burning sensation in my chest after eating. I am quite worried about it.
+383,Common Cold,For the past few days I have had blocked nose and headache. It started suddenly.
+384,Impetigo,I've been dealing with red sores around my nose and mouth and itchy blisters that burst and ooze. I have never felt this before.
+385,Hypertension,I keep having blurred vision and fatigue and shortness of breath with chest discomfort. It started suddenly.
+386,Dimorphic Hemorrhoids,Lately I have pain and bleeding during bowel movements and lump near my anus that hurts.
+387,Typhoid,I have been experiencing fever along with constipation.
+388,Typhoid,I feel like I have severe stomach pain and weakness and loss of appetite and fatigue. It comes and goes.
+389,Varicose Veins,I noticed aching heavy feeling in my legs. I have never felt this before.
+390,Bronchial Asthma,I have been experiencing breathlessness triggered by dust. It comes and goes.
+391,Migraine,Lately I have headache that worsens with activity and throbbing headache on one side. I am quite worried about it.
+392,Dimorphic Hemorrhoids,I am suffering from lump near my anus that hurts and itching around my anus. It started suddenly.
+393,Drug Reaction,Lately I have fever along with rash after medication and skin rash after starting new medicine. I am quite worried about it.
+394,Varicose Veins,I feel like I have veins bulging on my legs. It comes and goes.
+395,Urinary tract infection,Recently I started having blood in my urine and cloudy or strong smelling urine.
+396,Arthritis,I've been dealing with pain in multiple joints and joints feel warm and tender. It started suddenly.
+397,Acne,I am suffering from scarring from old pimples. This has been bothering me a lot.
+398,Malaria,I've been dealing with nausea and vomiting with high temperature.
+399,Hypertension,I have been experiencing shortness of breath with chest discomfort. It started suddenly.
+400,Common Cold,I am suffering from cough with mild fatigue.
+401,Malaria,I am suffering from high fever with chills and sweating. I am quite worried about it.
+402,Gastroesophageal reflux disease,Recently I started having difficulty swallowing food and frequent heartburn at night. It started suddenly.
+403,Fungal infection,I feel like I have red itchy patch on my groin. It started suddenly.
+404,Typhoid,Recently I started having high fever that won't go down. It is getting worse every day.
+405,Fungal infection,Lately I have itchy red rash on my skin folds. This has been bothering me a lot.
+406,Dengue,Since yesterday I have had muscle and joint pain with fatigue. I am quite worried about it.
+407,Diabetes,I have been experiencing numbness in my hands and feet. It started suddenly.
+408,Psoriasis,Lately I have thick patches of skin on my scalp. It is getting worse every day.
+409,Migraine,Recently I started having throbbing headache on one side.
+410,Peptic ulcer disease,Lately I have burning pain in my upper stomach and nausea with stomach discomfort. It comes and goes.
+411,Typhoid,I am suffering from high fever that won't go down and fever along with constipation. This has been bothering me a lot.
+412,Hypertension,I feel like I have frequent headaches and dizziness. This has been bothering me a lot.
+413,Psoriasis,I am suffering from thick patches of skin on my scalp. It started suddenly.
+414,Common Cold,I keep having runny nose and sneezing and cough with mild fatigue. It started suddenly.
+415,Varicose Veins,Since yesterday I have had veins bulging on my legs and swelling in my lower legs by evening.
+416,Malaria,I've been dealing with high fever with chills and sweating and nausea and vomiting with high temperature. It is getting worse every day.
+417,Peptic ulcer disease,I am suffering from burning pain in my upper stomach and indigestion and frequent burping.
+418,Gastroesophageal reflux disease,I am suffering from frequent heartburn at night and regurgitation of food after meals. I have never felt this before.
+419,Dimorphic Hemorrhoids,I have been experiencing discomfort while sitting for long. I am quite worried about it.
+420,Urinary tract infection,I noticed blood in my urine. It started suddenly.
+421,Bronchial Asthma,Since yesterday I have had breathlessness triggered by dust and coughing especially at night. I have never felt this before.
+422,Drug Reaction,Recently I started having hives soon after taking medicine.
+423,Gastroesophageal reflux disease,Recently I started having sour taste in my mouth and burning sensation in my chest after eating. This has been bothering me a lot.
+424,Cervical spondylosis,Since yesterday I have had neck pain and stiffness and headache starting from my neck. It started suddenly.
+425,Arthritis,I am suffering from stiffness that improves with movement. It started suddenly.
+426,Dimorphic Hemorrhoids,I am suffering from pain and bleeding during bowel movements. It started suddenly.
+427,Dimorphic Hemorrhoids,I am suffering from itching around my anus and discomfort while sitting for long.
+428,Hypertension,I noticed high readings when I check my blood pressure and nosebleeds and pounding in my chest.
+429,Peptic ulcer disease,Recently I started having burning pain in my upper stomach and indigestion and frequent burping. It is getting worse every day.
+430,Acne,I keep having pimples on my face and back. This has been bothering me a lot.
+431,Diabetes,Since yesterday I have had increased hunger with tiredness. This has been bothering me a lot.
+432,Peptic ulcer disease,I have been experiencing indigestion and frequent burping. I am quite worried about it.
+433,Hypertension,Since yesterday I have had blurred vision and fatigue. It comes and goes.
+434,Cervical spondylosis,I've been dealing with grinding sensation when moving neck. It is getting worse every day.
+435,Bronchial Asthma,I keep having coughing especially at night and whistling sound while breathing. It is getting worse every day.
+436,Dimorphic Hemorrhoids,I keep having pain and bleeding during bowel movements and blood on toilet paper after stool. This has been bothering me a lot.
+437,Common Cold,I've been dealing with cough with mild fatigue. I am quite worried about it.
+438,Varicose Veins,I feel like I have swollen twisted veins on my legs. It is getting worse every day.
+439,Dimorphic Hemorrhoids,Lately I have swelling near my rectum and blood on toilet paper after stool. It comes and goes.
+440,Urinary tract infection,I feel like I have burning sensation while urinating. It started suddenly.
+441,Pneumonia,I noticed high fever with persistent cough.
+442,Migraine,I feel like I have headache that worsens with activity and nausea along with severe headache. It is getting worse every day.
+443,Acne,I feel like I have pimples on my face and back. I have never felt this before.
+444,Impetigo,For the past few days I have had itchy blisters that burst and ooze. I have never felt this before.
+445,Typhoid,I noticed severe stomach pain and weakness and high fever that won't go down.
+446,Malaria,I've been dealing with nausea and vomiting with high temperature and high fever with chills and sweating. I am quite worried about it.
+447,Psoriasis,I am suffering from itchy silvery scales on elbows and knees. It is getting worse every day.
+448,Drug Reaction,I keep having itching all over my body after medication and breathing difficulty after a new tablet.
+449,Jaundice,Lately I have pale stools with abdominal pain. This has been bothering me a lot.
+450,Typhoid,I've been dealing with loss of appetite and fatigue and weakness and rose colored spots on chest.
+451,Allergy,I've been dealing with congestion triggered by pollen and itchy throat and runny nose. It comes and goes.
+452,Chicken pox,Recently I started having itchy red blisters all over my body. It is getting worse every day.
+453,Dimorphic Hemorrhoids,Recently I started having discomfort while sitting for long and blood on toilet paper after stool.
+454,Varicose Veins,I keep having swollen twisted veins on my legs. I have never felt this before.
+455,Allergy,Lately I have skin rash after eating certain food and itchy throat and runny nose. I have never felt this before.
+456,Acne,I noticed blackheads and whiteheads on my skin. It started suddenly.
+457,Allergy,Since yesterday I have had skin rash after eating certain food and congestion triggered by pollen. I have never felt this before.
+458,Gastroesophageal reflux disease,Recently I started having sour taste in my mouth and frequent heartburn at night. It started suddenly.
+459,Peptic ulcer disease,I am suffering from nausea with stomach discomfort and bloating after eating meals. It started suddenly.
+460,Jaundice,Lately I have itchy skin with yellow tint.
+461,Impetigo,Since yesterday I have had itchy blisters that burst and ooze and red sores around my nose and mouth. It started suddenly.
+462,Cervical spondylosis,I am suffering from tingling sensation in my arms. I am quite worried about it.
+463,Diabetes,I feel like I have unexplained weight loss and fatigue. This has been bothering me a lot.
+464,Typhoid,Recently I started having severe stomach pain and weakness and loss of appetite and fatigue. I am quite worried about it.
+465,Cervical spondylosis,I am suffering from headache starting from my neck.
+466,Bronchial Asthma,For the past few days I have had breathlessness triggered by dust.
+467,Arthritis,Recently I started having stiffness that improves with movement and pain in multiple joints. It started suddenly.
+468,Psoriasis,I have been experiencing dry cracked skin that sometimes bleeds. It is getting worse every day.
+469,Migraine,Lately I have nausea along with severe headache. This has been bothering me a lot.
+470,Impetigo,Lately I have red sores around my nose and mouth and skin sores that are spreading. This has been bothering me a lot.
+471,Malaria,I am suffering from fatigue along with shivering and nausea and vomiting with high temperature.
+472,Bronchial Asthma,I keep having wheezing and shortness of breath. I have never felt this before.
+473,Common Cold,I have been experiencing cough with mild fatigue and sore throat with mild cough.
+474,Migraine,I have been experiencing headache that worsens with activity.
+475,Diabetes,I have been experiencing increased hunger with tiredness and numbness in my hands and feet.
+476,Fungal infection,Recently I started having scaly itchy patches between my toes. This has been bothering me a lot.
+477,Hypertension,I have been experiencing frequent headaches and dizziness and shortness of breath with chest discomfort. It comes and goes.
+478,Diabetes,Since yesterday I have had blurred vision and slow healing wounds and excessive thirst and frequent urination. I am quite worried about it.
+479,Migraine,I keep having visual disturbances before headache.
+480,Acne,Lately I have pimples on my face and back and blackheads and whiteheads on my skin. This has been bothering me a lot.
+481,Typhoid,Recently I started having high fever that won't go down.
+482,Jaundice,I feel like I have weakness along with yellowish skin. This has been bothering me a lot.
+483,Typhoid,Lately I have loss of appetite and fatigue. I have never felt this before.
+484,Peptic ulcer disease,I feel like I have indigestion and frequent burping.
+485,Common Cold,I keep having congestion and watery eyes and blocked nose and headache. It comes and goes.
+486,Gastroesophageal reflux disease,I have been experiencing sour taste in my mouth and difficulty swallowing food. It comes and goes.
+487,Pneumonia,Lately I have fever and chest congestion.
+488,Diabetes,I have been experiencing unexplained weight loss and fatigue. It is getting worse every day.
+489,Drug Reaction,I've been dealing with skin rash after starting new medicine and itching all over my body after medication.
+490,Pneumonia,I keep having fatigue with rapid breathing.
+491,Drug Reaction,For the past few days I have had hives soon after taking medicine and breathing difficulty after a new tablet. I have never felt this before.
+492,Common Cold,I have been experiencing slight fever with body ache and runny nose and sneezing. It is getting worse every day.
+493,Typhoid,I keep having loss of appetite and fatigue and fever along with constipation.
+494,Drug Reaction,I have been experiencing swelling of face after taking a drug and breathing difficulty after a new tablet. This has been bothering me a lot.
+495,Typhoid,I am suffering from high fever that won't go down. It comes and goes.
+496,Cervical spondylosis,I am suffering from numbness in my fingers and headache starting from my neck.
+497,Arthritis,I feel like I have reduced range of motion in joints and swelling in my knees and fingers. I have never felt this before.
+498,Acne,Recently I started having red inflamed bumps on my chin.
+499,Psoriasis,I feel like I have itchy silvery scales on elbows and knees and thick patches of skin on my scalp. It comes and goes.
+500,Migraine,Lately I have pulsing pain behind my eyes. This has been bothering me a lot.
+501,Gastroesophageal reflux disease,I noticed sour taste in my mouth and chest discomfort that worsens when lying down. It started suddenly.
+502,Common Cold,I noticed sore throat with mild cough and runny nose and sneezing. This has been bothering me a lot.
+503,Bronchial Asthma,I keep having wheezing and shortness of breath and breathlessness triggered by dust. This has been bothering me a lot.
+504,Gastroesophageal reflux disease,Lately I have difficulty swallowing food and frequent heartburn at night.
+505,Pneumonia,Recently I started having shortness of breath and chills and high fever with persistent cough. It comes and goes.
+506,Malaria,Since yesterday I have had fever that comes and goes in cycles and headache and muscle pain with fever.
+507,Hypertension,I've been dealing with frequent headaches and dizziness. I am quite worried about it.
+508,Urinary tract infection,Lately I have blood in my urine. It started suddenly.
+509,Peptic ulcer disease,I have been experiencing bloating after eating meals and indigestion and frequent burping. It comes and goes.
+510,Cervical spondylosis,I keep having difficulty turning my neck. I have never felt this before.
+511,Acne,I have been experiencing oily skin with frequent breakouts and blackheads and whiteheads on my skin. It is getting worse every day.
+512,Migraine,Lately I have throbbing headache on one side and nausea along with severe headache. I am quite worried about it.
+513,Dengue,Lately I have pain behind my eyes and headache and muscle and joint pain with fatigue. I am quite worried about it.
+514,Impetigo,Lately I have red rash with yellowish crust and itchy blisters that burst and ooze. It comes and goes.
+515,Jaundice,I keep having pale stools with abdominal pain. This has been bothering me a lot.
+516,Chicken pox,Since yesterday I have had fluid filled blisters on my skin. I am quite worried about it.
+517,Gastroesophageal reflux disease,I noticed frequent heartburn at night.
+518,Cervical spondylosis,I noticed difficulty turning my neck and headache starting from my neck.
+519,Dimorphic Hemorrhoids,For the past few days I have had pain and bleeding during bowel movements and itching around my anus. I have never felt this before.
+520,Drug Reaction,I noticed skin rash after starting new medicine. This has been bothering me a lot.
+521,Dengue,Since yesterday I have had nausea and vomiting with fever and muscle and joint pain with fatigue. It comes and goes.
+522,Psoriasis,I've been dealing with dry cracked skin that sometimes bleeds and red scaly patches on my skin. This has been bothering me a lot.
+523,Chicken pox,I am suffering from fluid filled blisters on my skin and fever along with itchy spots.
+524,Impetigo,Lately I have small fluid filled blisters on my face. It started suddenly.
+525,Bronchial Asthma,I keep having whistling sound while breathing.
+526,Allergy,Since yesterday I have had itchy throat and runny nose and hives appearing on my skin. I have never felt this before.
+527,Impetigo,I feel like I have skin sores that are spreading and red rash with yellowish crust.
